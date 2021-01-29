@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafabulsing/azure-chatbot-test/issues"
   },
-  "homepage": "https://github.com/rafabulsing/azure-chatbot-test#readme"
+  "homepage": "https://github.com/rafabulsing/azure-chatbot-test#readme",
+  "dependencies": {
+    "botbuilder": "^4.11.1"
+  }
 }
